@@ -1,2 +1,2 @@
 # Instructions go here
-this all about git
+These all about git
